@@ -14,7 +14,7 @@ Also note that another server-time storage file will be required for each channe
 Make sure to change the name of the file in the new functions that you make.
 
 Then, call the function in the while loop given at the end of the script, with the following format:
-`functionName( 'Channel ID of channel to be copied from', 'Channel ID of channel to be pasted to', autho, 'serverTimeFileName')`
+* `functionName( 'Channel ID of channel to be copied from', 'Channel ID of channel to be pasted to', autho, 'serverTimeFileName')`
 
 NOTE: ServerTimeFile should be in the same folder as the code file.
 
